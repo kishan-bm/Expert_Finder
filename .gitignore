@@ -1,0 +1,10 @@
+/node_modules
+/.env
+.env
+
+# Dependencies in any subfolder
+**/node_modules
+
+# Environment files in any subfolder
+**/.env
+**.env

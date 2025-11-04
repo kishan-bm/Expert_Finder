@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Rohan Mehta",
+    "category": "Fitness",
+    "bio": "Certified fitness coach with 8 years of experience helping clients achieve holistic wellness through home workouts and nutrition guidance.",
+    "rating": 4.9,
+    "location": "Delhi, India"
+  },
+  {
+    "id": 2,
+    "name": "Anjali Nair",
+    "category": "Nutrition",
+    "bio": "Clinical nutritionist specializing in sustainable diet plans and weight management using data-driven approaches.",
+    "rating": 4.8,
+    "location": "Bangalore, India"
+  },
+  {
+    "id": 3,
+    "name": "Vikram Singh",
+    "category": "Life Coaching",
+    "bio": "Motivational coach who focuses on self-discipline, productivity, and mindfulness habits for professionals.",
+    "rating": 4.7,
+    "location": "Mumbai, India"
+  },
+  {
+    "id": 4,
+    "name": "Aarav Sharma",
+    "category": "Yoga",
+    "bio": "Certified yoga instructor combining traditional asanas with modern flexibility training to promote balance and mindfulness.",
+    "rating": 4.9,
+    "location": "Pune, India"
+  },
+  {
+    "id": 5,
+    "name": "Riya Patel",
+    "category": "Dance",
+    "bio": "Contemporary dancer and choreographer known for combining classical forms with freestyle expression.",
+    "rating": 4.6,
+    "location": "Ahmedabad, India"
+  },
+  {
+    "id": 6,
+    "name": "Neha Verma",
+    "category": "Astrology",
+    "bio": "Vedic astrologer with 12 years of experience providing personalized horoscope readings and life guidance.",
+    "rating": 4.8,
+    "location": "Jaipur, India"
+  },
+  {
+    "id": 7,
+    "name": "Rahul Kapoor",
+    "category": "Career Coach",
+    "bio": "Career strategist helping students and working professionals transition into technology and creative roles.",
+    "rating": 4.7,
+    "location": "Delhi, India"
+  },
+  {
+    "id": 8,
+    "name": "Sneha Iyer",
+    "category": "Psychologist",
+    "bio": "Cognitive behavioral therapist focusing on stress management and emotional wellness for young adults.",
+    "rating": 4.9,
+    "location": "Bangalore, India"
+  },
+  {
+    "id": 9,
+    "name": "Karan Deshmukh",
+    "category": "Music",
+    "bio": "Music producer and sound designer passionate about teaching electronic composition and live mixing.",
+    "rating": 4.6,
+    "location": "Mumbai, India"
+  },
+  {
+    "id": 10,
+    "name": "Priya Joshi",
+    "category": "Art & Creativity",
+    "bio": "Visual artist who helps learners express emotions through sketching, painting, and digital art.",
+    "rating": 4.8,
+    "location": "Goa, India"
+  }
+]
